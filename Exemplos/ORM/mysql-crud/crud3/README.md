@@ -1,0 +1,1 @@
+Usando informações fixas.

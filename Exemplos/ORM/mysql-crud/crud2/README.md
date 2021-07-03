@@ -1,0 +1,1 @@
+Simplificando nomes de variáveis
